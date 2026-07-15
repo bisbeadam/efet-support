@@ -90,6 +90,27 @@ a{color:var(--chalk-green);}
   outline:2px solid var(--chalk-green);
   outline-offset:2px;
 }
+.back-link{
+  font-size:14px;
+  color:var(--ink-soft);
+  text-decoration:none;
+}
+.back-link:hover{color:var(--chalk-green);}
+.hero-small{padding:44px 0 24px;}
+.policy-body h2{
+  font-family:var(--font-display);
+  font-size:20px;
+  font-weight:600;
+  color:var(--chalk-green-deep);
+  margin:32px 0 10px;
+}
+.policy-body p{color:var(--ink-soft);}
+.policy-body code{
+  background:var(--paper-alt);
+  padding:2px 6px;
+  border-radius:4px;
+  font-size:15px;
+}
 
 /* Hero */
 .hero{
