@@ -141,8 +141,7 @@ a{color:var(--chalk-green);}
 }
 .hero-equation{
   margin-top:36px;
-  width:100%;
-  max-width:520px;
+  max-width:420px;
 }
 .hero-equation svg{width:100%; height:auto; display:block;}
 .chalk-eq{
