@@ -13,7 +13,7 @@ const LANG_LABELS = {
   hu:'Magyar', ro:'Română', uk:'Українська', ru:'Русский', zh:'中文',
   ja:'日本語', lv:'Latviešu', lt:'Lietuvių', sk:'Slovenčina', sl:'Slovenščina',
   hr:'Hrvatski', sr:'Српски', bg:'Български', et:'Eesti', sq:'Shqip',
-  ga:'Gaeilge', tr:'Türkçe'
+  tr:'Türkçe'
 };
 
 function detectLang(){
@@ -145,7 +145,6 @@ const HEADINGS = {
   bg:{support:'Поддръжка', how:'Как работи', languages:'Налични езици', faq:'Често задавани въпроси', contact:'Свържи се с нас'},
   et:{support:'Tugi', how:'Kuidas see töötab', languages:'Saadaolevad keeled', faq:'Korduma kippuvad küsimused', contact:'Võta meiega ühendust'},
   sq:{support:'Mbështetje', how:'Si funksionon', languages:'Gjuhët e disponueshme', faq:'Pyetje të shpeshta', contact:'Na kontakto'},
-  ga:{support:'Tacaíocht', how:'Conas a oibríonn sé', languages:'Teangacha atá ar fáil', faq:'Ceisteanna coitianta', contact:'Déan teagmháil linn'},
   tr:{support:'Destek', how:'Nasıl çalışır', languages:'Mevcut diller', faq:'Sıkça sorulan sorular', contact:'Bize ulaşın'}
 };
 
